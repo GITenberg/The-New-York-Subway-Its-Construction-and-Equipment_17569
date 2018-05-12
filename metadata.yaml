@@ -1,0 +1,30 @@
+_repo: The-New-York-Subway-Its-Construction-and-Equipment_17569
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Interborough Rapid Transit Company
+    aliases:
+    - IRT Subway System
+    - Interborough Rapid Transit Company, New York
+    gutenberg_agent_id: '36889'
+    url: http://www.gutenberg.org/2009/agents/36889
+description: ''
+gutenberg_bookshelf: Technology
+gutenberg_issued: '2006-01-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17569'
+  lccn: 04029689
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TF'
+- !lcsh 'Subways -- New York (State) -- New York'
+- !lcsh 'Local transit -- New York (State) -- New York'
+title: The New York Subway, Its Construction and Equipment
+url: http://www.gutenberg.org/ebooks/17569
