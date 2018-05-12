@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '36889'
     url: http://www.gutenberg.org/2009/agents/36889
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17569#The-New-York-Subway-Its-Construction-and-Equipment
 gutenberg_bookshelf: Technology
 gutenberg_issued: '2006-01-21'
 gutenberg_type: Text
